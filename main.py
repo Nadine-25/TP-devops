@@ -1,6 +1,11 @@
+def login():
+    utilisateur = input("Nom d'utilisateur : ")
+    print(f"Bienvenue, {utilisateur} !")
+
+
 def afficher_menu():
     print("=== Mon application ===")
-    print("1. Commencer")
+    print("1. Commencer / Se connecter")
     print("2. Quitter")
 
 
