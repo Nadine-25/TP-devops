@@ -1,6 +1,6 @@
 def afficher_menu():
     print("=== Mon application ===")
-    print("1. Demarrer")
+    print("1. Commencer")
     print("2. Quitter")
 
 
