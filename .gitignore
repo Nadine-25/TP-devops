@@ -1,0 +1,25 @@
+# Bytecode et caches Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environnements virtuels
+venv/
+.venv/
+env/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Fichiers d'IDE
+.vscode/
+.idea/
+
+# Secrets et configuration locale
+.env
+
+# Fichiers système
+.DS_Store
+Thumbs.db
