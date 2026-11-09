@@ -14,3 +14,6 @@ python3 main.py
 
 ## Auteur
 Nadine BOUARICHE
+
+## Contribution
+Les contributions passent par des Pull Requests.
